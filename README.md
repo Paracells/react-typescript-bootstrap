@@ -8,4 +8,4 @@
 
 1. Clone or download repo.
 2. Yarn (for install packages)
-3. yarn start and open http://localhost:3000/
+3. yarn dev and open http://localhost:3000/
